@@ -1,0 +1,14 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Framez API", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#framez-api", 
+            "text": "", 
+            "title": "Framez API"
+        }
+    ]
+}
