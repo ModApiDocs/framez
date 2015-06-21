@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Framez API", 
+            "text": "Framez API\n\n\nWelcome to the API documentation of Framez.", 
             "title": "Home"
         }, 
         {
             "location": "/#framez-api", 
-            "text": "", 
+            "text": "Welcome to the API documentation of Framez.", 
             "title": "Framez API"
         }
     ]
